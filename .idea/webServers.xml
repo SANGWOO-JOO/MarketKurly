@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e83e1b4-8d73-47dd-a0a8-59fb4f3a245d" name="market_edu" url="http://www.marketkurly.site">
+        <fileTransfer rootFolder="/var/www/api-server-spring-boot-final2" accessType="SFTP" host="3.36.64.44" port="22" sshConfigId="1aba9189-fcb0-4530-8a18-379c063d3e70" sshConfig="ubuntu@3.36.64.44:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
